@@ -6,6 +6,8 @@ FinalSpeed是高速双边加速软件,可加速所有基于tcp协议的网络服
 <br />
 [服务端安装说明](http://www.91yun.org/archives/2775)
 
+[第三方说明](http://www.china.a-gov.com/xinwen/2803.html)
+
 ### 说明
 
 
