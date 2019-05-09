@@ -20,11 +20,11 @@ github里也有服务器端和客户端的文件。大家有需求可以自行�
 
 ### 一键安装代码：
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/finalspeed/master/install_fs.sh && bash install_fs.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/1309822767/Finalspeed/master/install_fs.sh && bash install_fs.sh
 ```
 ###一键卸载代码
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/finalspeed/master/install_fs.sh && bash install_fs.sh uninstall
+wget -N --no-check-certificate https://raw.githubusercontent.com/1309822767/Finalspeed/master/install_fs.sh && bash install_fs.sh uninstall
 ```
 ### finalspeed操作命令
 
